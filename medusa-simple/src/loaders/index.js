@@ -4,3 +4,4 @@ module.exports = async ({ container }) => {
 
   console.log("🧠 Custom loaders initialized")
 }
+//console.log
