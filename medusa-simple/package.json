@@ -1,0 +1,26 @@
+{
+
+  "name": "medusa-plugin-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "scripts": {
+    "develop": "medusa develop",
+    "start": "medusa start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@medusajs/medusa": "^1.8.2",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "devDependencies": {
+    "babel": "^5.8.38"
+  }
+}
